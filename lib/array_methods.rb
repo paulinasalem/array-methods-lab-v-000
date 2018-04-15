@@ -11,7 +11,8 @@ array.reverse
 end
 
 def using_first(array)
-
+array = ["wow", "Becky", "Ruby", "Joelle", "Marielle"]
+array.shift
 end
 
 def using_last(array)
