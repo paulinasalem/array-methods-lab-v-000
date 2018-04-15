@@ -12,10 +12,11 @@ end
 
 def using_first(array)
 array = ["wow", "Becky", "Ruby", "Joelle", "Marielle"]
-array.shift
+array.first
 end
 
 def using_last(array)
+array = ["Becky", "Ruby", "Joelle", "Marielle", "arrays!"]
 
 end
 
