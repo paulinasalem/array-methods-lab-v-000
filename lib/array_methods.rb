@@ -1,5 +1,4 @@
 def using_include(array, element)
-  array = ["Becky", "Ruby", "Joelle", "Marielle"]
   array.include?(element)
 end
 
