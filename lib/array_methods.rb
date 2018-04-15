@@ -17,7 +17,7 @@ end
 
 def using_last(array)
 array = ["Becky", "Ruby", "Joelle", "Marielle", "arrays!"]
-
+array.last
 end
 
 def using_size(array)
